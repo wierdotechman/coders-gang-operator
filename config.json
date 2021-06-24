@@ -1,0 +1,19 @@
+{
+    "token": "ODU3NDcwMTY3MTM0NjMzOTg2.YNQDUg.ATScQsBEOa47JCrzoTGWaqgFKnU",
+    "channels": {
+        "onlyOneChannel": {
+            "enabled": false,
+            "channelID": ""
+        },
+        "joinChannelID": "857460375677960233",
+        "leaveChannelID": "857487255963041833"
+    },
+    "randomiseMessages": true,
+    "roles": {
+      "autoAdd": false,
+      "roleID": ""
+    },
+    "messages": {
+        "sendInEmbeds": true
+    }
+}
